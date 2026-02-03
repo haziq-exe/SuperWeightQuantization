@@ -26,7 +26,7 @@ Yet removing the top 7000 other super weights barely affects performance. This i
 ## Requirements
 
 ```bash
-pip install torch hf_olmo
+pip install torch ai2-olmo
 ```
 
 ---
