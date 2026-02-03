@@ -29,6 +29,8 @@ Yet removing the top 7000 other super weights barely affects performance. This i
 pip install torch ai2-olmo
 ```
 
+!Also requires transformers version older than v4.40.0
+
 ---
 
 ## How It Works
